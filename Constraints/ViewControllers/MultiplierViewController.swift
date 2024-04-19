@@ -39,7 +39,6 @@ class MultiplierViewController: UIViewController {
         viewConstraintsSix.backgroundColor = .yellow
         viewConstraintsSix.translatesAutoresizingMaskIntoConstraints = false
 
-
         setupConstraints()
     }
 
