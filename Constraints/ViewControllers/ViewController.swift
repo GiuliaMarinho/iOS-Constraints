@@ -5,6 +5,9 @@
 //  Created by Giulia Marinho on 17/04/24.
 //
 
+
+// ********** EXEMPLO DE SAFE AREA ********** //
+
 import UIKit
 
 class ViewController: UIViewController {
